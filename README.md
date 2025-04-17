@@ -2,7 +2,7 @@
 Entrega del trabajo de python- Nicolás Udry y Benjamín Ochoa Mabres
 ```markdown
 # Análisis de Depresión en Estudiantes
-
+# Link al dataset: https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset 
 ## Introducción
 
 Este proyecto se centra en el análisis de un conjunto de datos sobre la depresión en estudiantes. El objetivo principal es identificar patrones, posibles factores de riesgo y relaciones entre diversas variables que puedan influir en el bienestar emocional de esta población. El análisis exploratorio inicial sentó las bases para comprender la estructura del dataset, manejar valores faltantes, analizar variables numéricas y categóricas, y detectar posibles valores atípicos. Este trabajo busca proporcionar una visión integral y preventiva sobre el problema de la depresión en estudiantes, explorando la relación entre factores individuales y académicos con indicadores de salud mental.
